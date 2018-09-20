@@ -512,6 +512,19 @@
               <p class="site-description motion-element" itemprop="description">人生苦短，百年不过一场大梦。须知时光易逝，诗酒趁年华，且行且珍惜。</p>
           </div>
 
+		  <!--my custom code begin-->
+		  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.5.0/velocity.min.js"></script>
+          <script type="text/javascript">
+			$("#sidebar").hover(function(){
+				$("#mydivshow").velocity('stop').velocity({opacity: 1});
+			},function(){
+				$("#mydivshow").velocity('stop').velocity({opacity: 0});
+			});
+		  </script>
+          <div id="mydivshow" class="mydivshow">
+          <!--my custom code end-->
+
           <nav class="site-state motion-element">
 
             
@@ -542,8 +555,13 @@
           
 
           
-
+<div id="music163player">
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=458789090&auto=0&height=66"></iframe>
+</div>
         </div>
+		<!--my custom code begin-->
+		</div>
+		<!--my custom code end-->
       </section>
 
       
