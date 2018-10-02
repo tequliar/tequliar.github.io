@@ -1910,7 +1910,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6b9873;
+  background: #deb17a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2781,7 +2781,7 @@ body {
 }
 #lv-container {
   border-radius: 20px;
-  padding: 30px 60px 30px 60px;
+  padding: 30px 5% 30px 5%;
   background: rgba(255,255,255,0.8) none repeat scroll !important;
 }
 #mydivshow {
