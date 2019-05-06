@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.tequliar.com/me/index.html</loc>
+    
+    <lastmod>2019-05-06T22:36:21.377Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.tequliar.com/talks/index.html</loc>
+    
+    <lastmod>2019-05-06T22:10:35.177Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.tequliar.com/message/index.html</loc>
+    
+    <lastmod>2019-05-06T22:10:22.227Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.tequliar.com/tags/index.html</loc>
+    
+    <lastmod>2019-05-06T21:54:28.145Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.tequliar.com/2018/04/22/death/</loc>
+    
+    <lastmod>2019-01-28T03:20:54.811Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.tequliar.com/README.html</loc>
+    
+    <lastmod>2018-11-26T07:02:38.674Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.tequliar.com/2018/02/09/blog-open/</loc>
+    
+    <lastmod>2018-11-26T07:02:06.791Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.tequliar.com/2018/06/03/book-four/</loc>
     
     <lastmod>2018-11-26T06:31:02.855Z</lastmod>
@@ -135,23 +184,9 @@
   </url>
   
   <url>
-    <loc>https://www.tequliar.com/2018/04/22/death/</loc>
-    
-    <lastmod>2018-11-26T04:32:27.112Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.tequliar.com/2018/03/18/files-finish/</loc>
     
     <lastmod>2018-11-26T04:32:24.823Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.tequliar.com/message/index.html</loc>
-    
-    <lastmod>2018-11-26T02:56:54.439Z</lastmod>
     
   </url>
   
@@ -191,23 +226,9 @@
   </url>
   
   <url>
-    <loc>https://www.tequliar.com/tags/index.html</loc>
-    
-    <lastmod>2018-09-20T10:11:45.755Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.tequliar.com/categories/index.html</loc>
     
     <lastmod>2018-09-20T10:09:57.567Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.tequliar.com/2018/02/09/blog-open/</loc>
-    
-    <lastmod>2018-09-19T20:44:42.505Z</lastmod>
     
   </url>
   
