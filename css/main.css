@@ -1866,7 +1866,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #53ff0b;
+  background: #9fec8a;
 }
 .feed-link,
 .chat {
@@ -2653,8 +2653,8 @@ body {
   }
 }
 @media only screen and (max-width: 700px) {
-  .content {
-    padding: 15px 5px;
+  .comments {
+    margin: 15px 10px 0;
   }
 }
 #sidebar {
