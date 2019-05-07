@@ -1866,7 +1866,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffa403;
+  background: #53ff0b;
 }
 .feed-link,
 .chat {
@@ -2639,7 +2639,7 @@ body {
 /* 设置背景颜色，背景图加载过程中会显示背景色 */
   background-color: rgba(0,0,0,0.5);
 }
-@media only screen and (max-width: 1199px) {
+@media only screen and (max-width: 700px) {
   body {
     background: url("/images/bg.jpg") no-repeat;
 /* 背景图垂直、水平均居中 */
@@ -2647,9 +2647,14 @@ body {
 /* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
     background-attachment: fixed;
 /* 让背景图基于容器大小伸缩 */
-    background-size: 100%;
+    background-size: auto 100%;
 /* 设置背景颜色，背景图加载过程中会显示背景色 */
     background-color: rgba(0,0,0,0.5);
+  }
+}
+@media only screen and (max-width: 700px) {
+  .content {
+    padding: 15px 5px;
   }
 }
 #sidebar {
